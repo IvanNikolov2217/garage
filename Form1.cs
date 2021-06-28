@@ -362,7 +362,6 @@ namespace garage
         {
 
         }
-        //fix populate double click fucks up
-        //location not working
+
     }
 }
